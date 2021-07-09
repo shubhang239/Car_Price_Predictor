@@ -40,7 +40,6 @@ nbconvert==6.0.7
 nbformat==5.1.3
 nest-asyncio==1.5.1
 notebook==6.4.0
-numpy @ file:///C:/ci/numpy_and_numpy_base_1620831380353/work
 packaging==20.9
 pandas @ file:///C:/ci/pandas_1624383628295/work
 pandocfilters==1.4.3
