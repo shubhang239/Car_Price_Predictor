@@ -22,7 +22,6 @@ ipywidgets==7.6.3
 itsdangerous==2.0.1
 jedi==0.18.0
 Jinja2==3.0.1
-joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1612898609989/work
 jsonify==0.5
 jsonschema==3.2.0
 jupyter==1.0.0
